@@ -153,3 +153,92 @@ To continuously enhance my **knowledge, skills, and experience** by working in a
 ---
 
 ### 💙 Developed with passion by Devaguru
+
+
+# 🚀 SanStudio Open Source Projects
+
+Welcome to the official open-source projects by **SanStudio**.
+
+SanStudio is a small independent development team of 3 core contributors:
+
+👨‍💻 Santhosh (Founder & Developer)  
+GitHub: https://github.com/A-Santhosh-Hub
+
+👨‍💻 Devaguru K (Co-Developer)  
+GitHub: https://github.com/Deva-Guru
+
+👨‍💻 Viknesh (Co-Developer)  
+GitHub: https://github.com/viknesh4761
+
+
+🌐 Company Website  
+https://sanstudio2026.neocities.org/
+
+
+---
+
+## 📢 Important Notice
+
+All projects in this repository are provided as **open source for learning and development purposes**.
+
+You are welcome to:
+
+✅ Download  
+✅ Study  
+✅ Modify  
+✅ Improve  
+✅ Build your own version  
+
+However:
+
+❌ Do NOT remove **SanStudio** credit and upload the same project as your own without meaningful improvements  
+❌ Do NOT simply rename and re-publish the project  
+❌ Do NOT claim authorship of unchanged work
+
+
+---
+
+## 💡 Our Purpose
+
+SanStudio creates projects to help:
+
+- students
+- beginners
+- self-learners
+- developers exploring new ideas
+
+These repositories are meant to support learning and innovation.
+
+If you use our project:
+
+👉 improve it  
+👉 customize it  
+👉 add features  
+👉 give proper credits  
+
+
+---
+
+## 🤝 Want to Contribute?
+
+We welcome contributors!
+
+If you improve any project:
+
+Please mention **Developed from SanStudio base project** and share your upgraded version.
+
+
+---
+
+## ⭐ Support the Project
+
+If this project helps you:
+
+Give a ⭐ on GitHub  
+Share with others  
+Credit SanStudio in your work  
+
+
+---
+
+### Built with ❤️ by SanStudio Team
