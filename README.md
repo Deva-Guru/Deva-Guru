@@ -21,7 +21,7 @@ I enjoy solving technical problems, learning new technologies, and building effi
 
 🔗 Visit my live portfolio website:
 
-👉 https://deva2026.neocities.org/
+👉 https://deva-guru.github.io/HTML/in.html
 
 Explore my:
 
