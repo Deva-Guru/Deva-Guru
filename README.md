@@ -154,7 +154,12 @@ To continuously enhance my **knowledge, skills, and experience** by working in a
 
 ### 💙 Developed with passion by Devaguru
 
+-----
 
+
+<p align="center">
+  <img src="https://github.com/A-Santhosh-Hub/A-Santhosh-Hub/blob/main/SanStudio.gif" />
+</p>
 # 🚀 SanStudio Open Source Projects
 
 Welcome to the official open-source projects by **SanStudio**.
